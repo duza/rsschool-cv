@@ -55,4 +55,10 @@ Stack: python, django, drf, postgresql, redis, react, react-dnd,  fluxxor, jquer
 - fixed bugs linked with tinymce editor;
 - changed and improved user's image gallery, work with api third-party image services;
  
+## Education
+**Belarusian State University of Transport**, Belarus, Gomel — Bachelor's degree
+*September 2006 - August 2011*
+Automation, telemechanics and communication at railway
 
+## Languages
+Russian, English(A2)
