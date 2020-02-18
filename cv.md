@@ -7,3 +7,7 @@ Belarus, Minsk
 pmikhadziuk@gmail.com
 [linkedin](https://linkedin.com/in/pavelmikhadziuk)
 [github](https://github.com/duza)
+
+## Skills
+*Python*, *Django*, *Django REST Framework*, *Javascript*, *React*, *React-Native*, *Redux*, *Redux-saga*, *Html*, *Css* 
+
